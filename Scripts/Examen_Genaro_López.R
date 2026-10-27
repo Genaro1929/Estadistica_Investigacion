@@ -142,3 +142,4 @@ plot(modelo_anova, which = 2)
 par(mfrow = c(1, 1))
 
 
+
